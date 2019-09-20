@@ -2,8 +2,9 @@
 A lane detection package which is written by MATLAB
 
 ## How to use
-1. set the parameters in the ```config.m```
-2. run ```main.m```
+1. ```cd lane_detection```
+2. set the parameters in the ```config.m```
+3. run ```main.m```
 
 ## Results
 1. image preprocessing results
