@@ -7,11 +7,11 @@ A lane detection package which is written by MATLAB
 
 ## Results
 1. image preprocessing results
-<img src="figure/graph_visualization.jpg" width=200>
+<img src="figure/graph_visualization.png" width=300>
 2. lane detection result on bird eye's view image
-<img src="figure/lane_detection_on_bev.jpg" width=200>
+<img src="figure/lane_detection_on_bev.png" width=300>
 3. lane detection result on raw image
-<img src="figure/lane_detection.jpg" width=200>
+<img src="figure/lane_detection.png" width=300>
 
 ## Reference
 To use the code, pleace cite this paper:
